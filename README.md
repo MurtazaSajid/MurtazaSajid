@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Murtaza Sajid</h1>
 <h3 align="center">A software engineering student passionate about Java, C++, and building console and GUI applications</h3>
-<h3 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" />
-  Welcome to my GitHub Profile!
-</h3>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=murtazasajid&theme=radical)](https://git.io/streak-stats)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=murtazasajid&label=Profile%20views&color=0e75b6&style=flat" alt="murtazasajid" /> </p>
 
