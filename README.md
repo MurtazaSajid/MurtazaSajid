@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Murtaza Sajid</h1>
-<h3 align="center">A software engineering student passionate about Java, C++, and building console and GUI <!-- Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Hi+👋,+I'm+Murtaza+Sajid;Software+Engineering+Student;Java+%26+C%2B%2B+Developer;Building+Console+%26+GUI+Apps;Learning+OOP+%26+Java+Swing&center=true&width=500&height=45&color=58A6FF&size=20">
-</p>
+<h3 align="center">A software engineering student passionate about Java, C++, and building console and GUI applications</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=murtazasajid&label=Profile%20views&color=0e75b6&style=flat" alt="murtazasajid" /> </p>
 
 - 🔭 I’m currently working on **Gold Shop Management System**
 
