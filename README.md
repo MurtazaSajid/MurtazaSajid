@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Murtaza Sajid</h1>
 <h3 align="center">A software engineering student passionate about Java, C++, and building console and GUI applications</h3>
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+Murtaza+Sajid;Java+%26+C%2B%2B+Developer;Building+Console+%26+GUI+Apps;Learning+OOP+%26+Swing&center=true&width=500&height=50&color=58A6FF&vCenter=true&size=20" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=murtazasajid&label=Profile%20views&color=0e75b6&style=flat" alt="murtazasajid" /> </p>
 
