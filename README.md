@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Murtaza Sajid</h1>
 <h3 align="center">A software engineering student passionate about Java, C++, and building console and GUI applications</h3>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=murtazasajid&style=flat-square&color=blue" />
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=murtazasajid&label=Profile%20views&color=0e75b6&style=flat" alt="murtazasajid" /> </p>
 
